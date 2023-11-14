@@ -1,0 +1,15 @@
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/bin/Debug/net7.0/GestionDocument
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/bin/Debug/net7.0/GestionDocument.deps.json
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/bin/Debug/net7.0/GestionDocument.runtimeconfig.json
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/bin/Debug/net7.0/GestionDocument.dll
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/bin/Debug/net7.0/GestionDocument.pdb
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/GestionDocument.csproj.AssemblyReference.cache
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/GestionDocument.GeneratedMSBuildEditorConfig.editorconfig
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/GestionDocument.AssemblyInfoInputs.cache
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/GestionDocument.AssemblyInfo.cs
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/GestionDocument.csproj.CoreCompileInputs.cache
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/GestionDocument.dll
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/refint/GestionDocument.dll
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/GestionDocument.pdb
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/GestionDocument.genruntimeconfig.cache
+/home/shab/Documents/DevVsCode/Exercices-designs-patterns/GestionDocumentsAbstractFactory/GestionDocument/obj/Debug/net7.0/ref/GestionDocument.dll
